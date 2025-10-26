@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Guide Creator",
+  "description": "A tool to create and download interactive, color-coded guides with hotspots on an image. Users can customize sections, categories, and content, then export a self-contained HTML file.",
+  "requestFramePermissions": []
+}
